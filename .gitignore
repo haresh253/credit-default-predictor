@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+# Ignore dataset, plots, and IDE configs
+*.xls
+*.png
+*.jpg
+.idea/
+__pycache__/
+.DS_Store
+plots/
